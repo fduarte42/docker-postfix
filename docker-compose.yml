@@ -1,0 +1,4 @@
+postfix:
+  build: .
+  ports:
+    - "25:25"
